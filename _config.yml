@@ -1,2 +1,3 @@
 name: Giridhar Pottepalem
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
