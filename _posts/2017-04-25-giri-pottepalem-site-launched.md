@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giri Pottepalem, Launches GitHub Pagess Site"
+title: "Giri Pottepalem, Launches GitHub Pages Site"
 date: 2017-04-25
 ---
 
